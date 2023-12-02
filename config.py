@@ -1,0 +1,4 @@
+SLEEP_BETWEEN_WALLETS = (5, 10)
+RANDOM_WALLETS_ORDER = True
+RPC = "https://mainnet.era.zksync.io"
+CLAIM_ADDRESS = "0x17e7B3fd0a0429F66cc48df0b1cB10AEdBC803df"  # Возможно 0x95702a335e3349d197036Acb04BECA1b4997A91a, будет видно
